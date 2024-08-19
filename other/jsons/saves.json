@@ -1,0 +1,470 @@
+[
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "JDoe",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "PDoe",
+	"save": {
+		"diff": "medium",
+		"level": 6,
+		"score": 100
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "ZDoe",
+	"save": {
+		"diff": "hard",
+		"level": 10,
+		"score": 20
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "TEST",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "okb",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "je",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "sa",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "bb",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "ff",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "qq",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "ee",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "wq",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "rf",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "22",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "3",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "2222",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "pp",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "boz",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "387",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "ll",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "p0",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "11",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "mm",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "ppod",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "hrur",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "fjjf",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "3333",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "vvvv",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "vvx",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "ffa",
+	"save": {
+		"diff": "easy",
+		"level": 1,
+		"score": 50000
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "qe2",
+	"save": {
+		"diff": "easy",
+		"level": 1,
+		"score": 50000
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "`33",
+	"save": {
+		"diff": "easy",
+		"level": 1,
+		"score": 50000
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "zxc",
+	"save": {
+		"diff": "easy",
+		"level": 1,
+		"score": 50000
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "5341",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "wenw",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "3233",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "3332",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "232",
+	"save": {
+		"diff": "easy",
+		"level": 1,
+		"score": 28000
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "voho",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "nig",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "332",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "223r",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "vnk",
+	"save": {
+		"diff": "easy",
+		"level": 1,
+		"score": 31000
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "vvs",
+	"save": {
+		"diff": "easy",
+		"level": 1,
+		"score": 28000
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "336",
+	"save": {
+		"diff": "easy",
+		"level": 2,
+		"score": 41000
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "vvv",
+	"save": {
+		"diff": "easy",
+		"level": -1,
+		"score": 41000
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "hie",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "bor",
+	"save": {
+		"diff": "easy",
+		"level": 1,
+		"score": 30000
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "3223",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "www",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+},
+{
+	"class": "com.mygdx.game.SaveState",
+	"username": "nn",
+	"save": {
+		"diff": "easy",
+		"level": 0,
+		"score": 0
+	}
+}
+]
